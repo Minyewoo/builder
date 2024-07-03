@@ -1,1 +1,4 @@
-# builder
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+
+# config
+test config located at `config.json`
